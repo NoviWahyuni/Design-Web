@@ -1,0 +1,103 @@
+.header {
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px;
+	background-color: maroon;
+	font-size: 50px;
+	height: 60px;
+}
+
+.subheader {
+	text-align: center;
+	padding: 10px;
+	font-size: 18px;
+	background-color: firebrick;
+	color: white;
+	font-size: 30px;
+}
+
+.menu {
+	text-align: center;
+	text-transform: uppercase;
+	background-color: maroon;
+	color: white;
+	overflow: hidden;
+	font-size: 20px;
+}
+
+.menu a {
+	float: center;
+	display: block;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	background-color: white;
+	color: maroon;
+}
+
+.contact {
+	text-align: center;
+	text-transform: uppercase;
+	background-color: crimson;
+	color: white;
+	font-size: 200px;
+}
+
+.news {
+	text-align: center;
+	text-transform: uppercase;
+	background-color: firebrick;
+	color: white;
+	font-size: 200px;
+}
+
+.judul {
+	padding: 10px;
+	text-align: center;
+	background-color: maroon;
+	color: white;
+	font-size: 18px;
+}
+
+.isi-data {
+	float: left;
+	text-align: justify;
+	padding: 10px;
+}
+
+.footer{
+	color: white;
+	text-align: center;
+	padding: 10px;
+	background-color: #8B0000;
+	height: 15px;
+}
+
+.artikel {
+	color: white;
+	background-color: maroon;
+	padding: 10px;
+	font-size: 18px;
+}
+
+.isi-data2 {
+	color: white;
+	background-color: indianred;
+	padding: 10px;
+}
+
+.isi-data2 a {
+	display: block;
+	color: white;
+	text-decoration: none;
+}
+
+.isi-data2 a:hover {
+	background-color: white;
+	color: maroon;
+}
